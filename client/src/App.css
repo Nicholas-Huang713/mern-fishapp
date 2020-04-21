@@ -1,0 +1,44 @@
+.home-container {
+  background-image: url('./images/home.jpg');
+  background-repeat: no-repeat;
+  background-size: cover; 
+  height: 92vh;
+  font-family: 'Lobster', cursive;
+}
+
+.home-style {
+  padding:8%;
+}
+
+.reg-container{
+  background-image: url('./images/reg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 92vh;
+}
+
+.login-container{
+  background-image: url('./images/login.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 92vh;
+}
+
+.edit-container{
+  background-image: url('./images/edit.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 92vh;
+}
+
+.catch-container {
+  background-image: url('./images/catch.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.tackle-style{
+  width: 10%;
+  height: auto;
+}
